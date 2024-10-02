@@ -1,5 +1,7 @@
 
 
+---
+
 # House Price Prediction
 
 This project predicts house prices based on features like square footage, number of rooms, and location.
@@ -23,7 +25,7 @@ Tested models:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/vinayakula06/house-price-prediction.git
    ```
 2. Install dependencies:
    ```bash
@@ -44,3 +46,4 @@ Best model: **Gradient Boosting** with RMSE of **34,588.9617**.
 - Improve hyperparameter tuning
 
 ---
+
